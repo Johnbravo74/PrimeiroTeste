@@ -1,3 +1,16 @@
 {
-  "start": "index.js"
+  "name": "alura-timer",
+  "version": "1.0.0",
+  "main": "index.html",
+  "start": "index .",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Evangelista",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.4.15"
+  },
+  "devDependencies": {},
+  "description": ""
 }
